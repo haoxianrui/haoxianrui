@@ -1,8 +1,10 @@
 ### Hi there 👋
 <a href="https://github.com/hxrui">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hxrui&show_icons=true&include_all_commits=true&theme=tokyonight" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hxrui&hide=contribs&show_icons=true&include_all_commits=true&bg_color=90,014289,60" />
 </a>
-
+<a href="https://github.com/hxrui">
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxrui&layout=compact&theme=synthwave&hide=Groovy,Kotlin,AspectJ,FreeMarker,SCSS,Shell,CSS,GAP" />
+</a>
 <!--
 &show_icons=true&theme=radical)
 
