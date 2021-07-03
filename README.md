@@ -1,6 +1,6 @@
 
 <a href="https://github.com/hxrui">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hxrui&hide=contribs,prs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&bg_color=0,d38312,a83279" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hxrui&hide=contribs,prs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&bg_color=0,000000,434343" />
 </a>
 
 
@@ -16,6 +16,9 @@
 780206,061161
 Here are some ideas to get you started:
 
+#000000
+→ 
+#434343
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
