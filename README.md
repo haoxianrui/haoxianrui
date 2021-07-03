@@ -1,6 +1,6 @@
-### Hi there 👋
+
 <a href="https://github.com/hxrui">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hxrui&hide=contribs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&bg_color=60,330867,30cfd0" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hxrui&hide=contribs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&bg_color=45,ed6ea0,ec8c69" />
 </a>
 <a href="https://github.com/hxrui">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxrui&layout=compact&theme=synthwave&hide=Groovy,Kotlin,AspectJ,FreeMarker,SCSS,Shell,CSS,GAP" />
