@@ -1,6 +1,6 @@
 
 <a href="https://github.com/hxrui">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hxrui&hide=contribs,prs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&bg_color=0,000000,434343" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hxrui&hide=contribs,prs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&bg_color=0,232526,414345" />
 </a>
 
 
@@ -15,7 +15,9 @@
 **hxrui/hxrui** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 780206,061161
 Here are some ideas to get you started:
-
+#232526
+→ 
+#414345
 #000000
 → 
 #434343
