@@ -1,7 +1,9 @@
 
 <a href="https://github.com/hxrui">
-  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hxrui&hide=contribs,prs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&bg_color=0,1D4350,A43931" />
+  <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=hxrui&hide=contribs,prs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&bg_color=0,000428,004e92" />
 </a>
+
+
 <!--
 <a href="https://github.com/hxrui">
   <img align="center" alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hxrui&layout=compact&hide=Groovy,Kotlin,AspectJ,FreeMarker,SCSS,Shell,CSS,GAP&bg_color=45,ec2F4B,009FFF&title_color=ffffff&text_color=ffffff" />
