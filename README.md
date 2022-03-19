@@ -10,4 +10,4 @@
 
 [![郝先瑞's github stats](https://github-readme-stats.vercel.app/api?username=hxrui&hide=contribs,prs&show_icons=true&title_color=ffffff&text_color=ffffff&icon_color=ffffff&include_all_commits=true&bg_color=0,240b36,c31432)](https://github.com/hxrui/youlai-mall)
 
-![Snake animation](https://github.com/hxrui/hxrui/output/github-contribution-grid-snake.svg)
+![](https://github.com/hxrui/hxrui/output/github-contribution-grid-snake.svg)
