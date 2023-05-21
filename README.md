@@ -9,7 +9,7 @@
 
 I'm **haoxianrui**, the full-stack author of open-source projects [youlai-mall](https://gitee.com/youlaitech/youlai-mall) and [vue3-element-admin](https://gitee.com/youlaiorg/vue3-element-admin).
 
-✅ WeChat Official Accoun：
+✅ WeChat Official Account：
 
 <img src="https://raw.githubusercontent.com/haoxianrui/haoxianrui/master/assets/img/gongzhonghao.png" width="428px" height="156px"> 
 
