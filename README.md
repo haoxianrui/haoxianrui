@@ -2,7 +2,7 @@
 
 
 ![](https://komarev.com/ghpvc/?username=haoxianrui)
-[![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-@有来技术-blue.svg)](https://juejin.cn/user/2858385964539352/posts)
+[![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-@有来技术-blue.svg)](https://juejin.cn/user/4187394044331261)
 [![WeChat](https://img.shields.io/badge/WeChat-haoxianrui-brightgreen.svg)](assets%2Fimg%2Fhaoxianrui.jpg?raw=true)
 
 ### Hi there 👋
