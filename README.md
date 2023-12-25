@@ -1,6 +1,6 @@
 
-
-
+### 稀土掘金年度人气投票：https://activity.juejin.cn/rank/2023/writer/4187394044331261
+### 大家帮忙投下票，感谢！
 ![](https://komarev.com/ghpvc/?username=haoxianrui)
 [![掘金](https://img.shields.io/badge/%E6%8E%98%E9%87%91-@有来技术-blue.svg)](https://juejin.cn/user/4187394044331261)
 [![WeChat](https://img.shields.io/badge/WeChat-haoxianrui-brightgreen.svg)](assets%2Fimg%2Fhaoxianrui.jpg?raw=true)
