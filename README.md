@@ -9,7 +9,7 @@ I'm **haoxianrui**, the full-stack author of open-source projects [youlai-mall](
 
 ✅ WeChat Official Account：
 
-<img src="https://raw.githubusercontent.com/haoxianrui/haoxianrui/master/assets/img/gongzhonghao.png" width="450px" height="150px"> 
+<img src="https://foruda.gitee.com/images/1737108820762592766/3390ed0d_716974.png" width="450px" height="150px"> 
 
 ✅ Blog Community Platform：
 
