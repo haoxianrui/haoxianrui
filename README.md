@@ -13,37 +13,74 @@
 
 </div>
 
+<div align="center">
+
 ## 💻 技术栈
 
-<div align="center">
 <img src="https://skillicons.dev/icons?i=java,spring,maven,vue,ts,js,nodejs,mysql,redis,docker,git,idea,vscode&perline=13" width="680" alt="技术栈" />
+
 </div>
+
+<div align="center">
 
 ## 🔥 开源项目
 
-| 项目 | 简介 | Stars |
-| --- | --- | --- |
-| [youlai-mall](https://github.com/youlaitech/youlai-mall) | 基于 Spring Boot 3、Spring Cloud & Alibaba、Vue 3、Element-Plus、uni-app 的全栈商城 | ![stars](https://img.shields.io/github/stars/youlaitech/youlai-mall?logo=github) |
-| [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) | 基于 Vue 3 + Vite + TypeScript + Element-Plus 的后台管理前端模板 | ![stars](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?logo=github) |
-| [youlai-boot](https://github.com/youlaitech/youlai-boot) | 基于 Java 17 + Spring Boot 3 + Spring Security 6 + Vue 3 的前后端分离权限管理系统 | ![stars](https://img.shields.io/github/stars/youlaitech/youlai-boot?logo=github) |
-| [mall-admin](https://github.com/youlaitech/mall-admin) | youlai-mall 管理前端，基于 vue-element-admin 升级的 Vue 3 版本 | ![stars](https://img.shields.io/github/stars/youlaitech/mall-admin?logo=github) |
-| [mall-app](https://github.com/youlaitech/mall-app) | youlai-mall 微信小程序 / H5 / Android / iOS 移动端前端，基于 uni-app | ![stars](https://img.shields.io/github/stars/youlaitech/mall-app?logo=github) |
+</div>
+
+<table align="center" width="100%">
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/youlaitech/youlai-mall"><b>🛒 youlai-mall</b></a><br>
+      <sub>基于 Spring Boot 3、Spring Cloud & Alibaba、Vue 3、Element-Plus、uni-app 的全栈商城</sub><br><br>
+      <img alt="stars" src="https://img.shields.io/github/stars/youlaitech/youlai-mall?logo=github"> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/youlaitech/vue3-element-admin"><b>🖥️ vue3-element-admin</b></a><br>
+      <sub>基于 Vue 3 + Vite + TypeScript + Element-Plus 的后台管理前端模板</sub><br><br>
+      <img alt="stars" src="https://img.shields.io/github/stars/youlaitech/vue3-element-admin?logo=github"> <img alt="Vue3" src="https://img.shields.io/badge/Vue3-4FC08D?logo=vuedotjs&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/youlaitech/youlai-boot"><b>🔐 youlai-boot</b></a><br>
+      <sub>基于 Java 17 + Spring Boot 3 + Spring Security 6 + Vue 3 的前后端分离权限管理系统</sub><br><br>
+      <img alt="stars" src="https://img.shields.io/github/stars/youlaitech/youlai-boot?logo=github"> <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white">
+    </td>
+    <td width="50%" valign="top">
+      <a href="https://github.com/youlaitech/mall-admin"><b>🛠️ mall-admin</b></a><br>
+      <sub>youlai-mall 管理前端，基于 vue-element-admin 升级的 Vue 3 版本</sub><br><br>
+      <img alt="stars" src="https://img.shields.io/github/stars/youlaitech/mall-admin?logo=github"> <img alt="Vue3" src="https://img.shields.io/badge/Vue3-4FC08D?logo=vuedotjs&logoColor=white">
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <a href="https://github.com/youlaitech/mall-app"><b>📱 mall-app</b></a><br>
+      <sub>youlai-mall 微信小程序 / H5 / Android / iOS 移动端前端，基于 uni-app</sub><br><br>
+      <img alt="stars" src="https://img.shields.io/github/stars/youlaitech/mall-app?logo=github"> <img alt="uni-app" src="https://img.shields.io/badge/uni--app-42B983?logo=vuedotjs&logoColor=white">
+    </td>
+    <td width="50%" valign="top" align="center">
+      <sub>更多项目见<br><a href="https://github.com/youlaitech"><b>youlaitech 组织主页 →</b></a></sub>
+    </td>
+  </tr>
+</table>
+
+<div align="center">
+
+**如果这些开源项目帮到了你，欢迎点个 star ⭐**
 
 ## 📊 活跃数据
 
-<div align="center">
-<img src="https://streak-stats.demolab.com/?user=haoxianrui&theme=transparent&hide_border=true&locale=zh_CN" width="72%" alt="贡献连击" />
-</div>
+<img src="https://streak-stats.demolab.com/?user=haoxianrui&theme=transparent&hide_border=true&locale=zh_CN" width="52%" alt="贡献连击" />
 
 ## 📝 博客社区
 
-<div align="center">
 <a href="https://blog.csdn.net/u013737132" title="CSDN"><img src="assets/img/csdn.png" height="32" alt="CSDN" /></a>&ensp;
 <a href="https://juejin.cn/user/4187394044331261" title="掘金"><img src="assets/img/juejin.png" height="32" alt="掘金" /></a>&ensp;
 <a href="https://www.cnblogs.com/haoxianrui/" title="博客园"><img src="assets/img/cnblog.png" height="32" alt="博客园" /></a>&ensp;
 <a href="https://www.zhihu.com/people/haoxr" title="知乎"><img src="assets/img/zhihu.png" height="32" alt="知乎" /></a>&ensp;
 <a href="https://my.oschina.net/youlai" title="开源中国"><img src="assets/img/osc.png" height="32" alt="开源中国" /></a>&ensp;
 <a href="https://blog.51cto.com/youlai" title="51CTO"><img src="assets/img/51cto.png" height="32" alt="51CTO" /></a>
+
 </div>
 
 ---
