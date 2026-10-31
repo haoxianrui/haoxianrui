@@ -11,22 +11,3 @@
 [![微信公众号](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%9C%89%E6%9D%A5%E6%8A%80%E6%9C%AF-brightgreen?logo=wechat)](https://mp.weixin.qq.com/)
 [![邮箱](https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-1490493387%40qq.com-orange?logo=gmail)](mailto:1490493387@qq.com)
 
-## 📚 博客社区
-
-<div align="center">
-<a href="https://blog.csdn.net/u013737132" title="CSDN"><img src="assets/img/csdn.png" height="32" alt="CSDN" /></a>&ensp;
-<a href="https://juejin.cn/user/4187394044331261" title="掘金"><img src="assets/img/juejin.png" height="32" alt="掘金" /></a>&ensp;
-<a href="https://www.cnblogs.com/haoxianrui/" title="博客园"><img src="assets/img/cnblog.png" height="32" alt="博客园" /></a>&ensp;
-<a href="https://www.zhihu.com/people/haoxr" title="知乎"><img src="assets/img/zhihu.png" height="32" alt="知乎" /></a>&ensp;
-<a href="https://my.oschina.net/youlai" title="开源中国"><img src="assets/img/osc.png" height="32" alt="开源中国" /></a>&ensp;
-<a href="https://blog.51cto.com/youlai" title="51CTO"><img src="assets/img/51cto.png" height="32" alt="51CTO" /></a>
-</div>
-
----
-
-<details>
-<summary>📱 扫码关注公众号「有来技术」</summary>
-<div align="center">
-<img src="https://foruda.gitee.com/images/1737108820762592766/3390ed0d_716974.png" width="350" alt="微信公众号二维码" />
-</div>
-</details>
