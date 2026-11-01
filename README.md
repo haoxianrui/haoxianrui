@@ -11,3 +11,12 @@
 [![微信公众号](https://img.shields.io/badge/%E5%BE%AE%E4%BF%A1%E5%85%AC%E4%BC%97%E5%8F%B7-%E6%9C%89%E6%9D%A5%E6%8A%80%E6%9C%AF-brightgreen?logo=wechat)](https://mp.weixin.qq.com/)
 [![邮箱](https://img.shields.io/badge/%E9%82%AE%E7%AE%B1-1490493387%40qq.com-orange?logo=gmail)](mailto:1490493387@qq.com)
 
+## 🔥 开源项目
+
+| 项目 | 简介 | Stars |
+| --- | --- | --- |
+| [youlai-mall](https://github.com/youlaitech/youlai-mall) | 基于 Spring Boot 3、Spring Cloud & Alibaba、Vue 3、Element-Plus、uni-app 的全栈商城 | ![stars](https://img.shields.io/github/stars/youlaitech/youlai-mall?logo=github) |
+| [vue3-element-admin](https://github.com/youlaitech/vue3-element-admin) | 基于 Vue 3 + Vite + TypeScript + Element-Plus 的后台管理前端模板 | ![stars](https://img.shields.io/github/stars/youlaitech/vue3-element-admin?logo=github) |
+| [youlai-boot](https://github.com/youlaitech/youlai-boot) | 基于 Java 17 + Spring Boot 3 + Spring Security 6 + Vue 3 的前后端分离权限管理系统 | ![stars](https://img.shields.io/github/stars/youlaitech/youlai-boot?logo=github) |
+| [mall-admin](https://github.com/youlaitech/mall-admin) | youlai-mall 管理前端，基于 vue-element-admin 升级的 Vue 3 版本 | ![stars](https://img.shields.io/github/stars/youlaitech/mall-admin?logo=github) |
+| [mall-app](https://github.com/youlaitech/mall-app) | youlai-mall 微信小程序 / H5 / Android / iOS 移动端前端，基于 uni-app | ![stars](https://img.shields.io/github/stars/youlaitech/mall-app?logo=github) |
