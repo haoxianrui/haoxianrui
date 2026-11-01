@@ -17,12 +17,6 @@
 <img src="https://skillicons.dev/icons?i=java,spring,maven,vue,ts,js,nodejs,mysql,redis,docker,git,idea,vscode&perline=13" width="680" alt="技术栈" />
 </div>
 
-## ☕ 签名代码
-
-<div align="center">
-<img src="assets/code-window.svg" alt="签名代码动画" width="90%" />
-</div>
-
 ## 📊 活跃数据
 
 <div align="center">
