@@ -11,12 +11,6 @@
 
 </div>
 
-## 💻 技术栈
-
-<div align="center">
-<img src="https://skillicons.dev/icons?i=java,spring,maven,vue,ts,js,nodejs,mysql,redis,docker,git,idea,vscode&perline=13" width="680" alt="技术栈" />
-</div>
-
 ## 📊 活跃数据
 
 <div align="center">
